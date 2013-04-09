@@ -1,0 +1,26 @@
+/*
+Theme Name: Boltgun
+Theme URI: http://boltgunshq.com
+Description: Boltgun's HQ theme
+Version: 1.0
+Author: Mike Earley
+Author URI: http://www.5sn1.com/
+Template: bp-default
+Tags: buddypress, military
+*/
+
+body {
+background: #788972;}
+
+#header {
+background:transparent;
+margin-bottom:0;}
+
+	#header h1 {
+		float:none;
+	}
+
+#logo {
+	background: url(wp-content/uploads/2013/04/boltgun-logo.png) no-repeat 0px center;
+	height:112px;
+}

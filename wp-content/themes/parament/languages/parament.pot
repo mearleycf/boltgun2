@@ -1,0 +1,240 @@
+# Copyright (C) 2012 Automattic
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Parament 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/parament\n"
+"POT-Creation-Date: 2012-11-05 22:28:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: archive.php:15
+msgid "Archives"
+msgstr ""
+
+#: archive.php:21
+msgid "All posts tagged %1$s"
+msgstr ""
+
+#: archive.php:26
+msgid "All posts for the day %1$s"
+msgstr ""
+
+#: archive.php:26
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:28
+msgid "All posts for the month %1$s"
+msgstr ""
+
+#: archive.php:28
+msgid "F, Y"
+msgstr ""
+
+#: archive.php:30
+msgid "All posts for the year %1$s"
+msgstr ""
+
+#: archive.php:30
+msgid "Y"
+msgstr ""
+
+#: archive.php:33
+msgid "All posts by %1$s"
+msgstr ""
+
+#: archive.php:57 content.php:74 index.php:21 search.php:30
+msgid "Posts navigation"
+msgstr ""
+
+#: archive.php:58 index.php:22 search.php:31
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: archive.php:59 index.php:23 search.php:32
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: comments.php:10
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:13
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:32
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: content-404.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: content-404.php:12
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: content-excerpt.php:15 content-page.php:15
+msgid "Edit This"
+msgstr ""
+
+#: content-page.php:19 content.php:61
+msgid "Continue Reading"
+msgstr ""
+
+#: content.php:17 image.php:22
+msgid "Posted by %1$s on %2$s"
+msgstr ""
+
+#: content.php:20 image.php:25
+msgid "View all posts by %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma.
+#: content.php:33 content.php:41
+msgid ", "
+msgstr ""
+
+#: content.php:36
+msgid "Posted in: %1$s."
+msgstr ""
+
+#: content.php:44
+msgid "Tagged: %1$s."
+msgstr ""
+
+#: content.php:50
+msgid "Leave a Comment"
+msgstr ""
+
+#: content.php:51
+msgid "1 comment"
+msgstr ""
+
+#: content.php:52
+msgid "% comments"
+msgstr ""
+
+#: footer.php:11
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:29
+msgid "Primary"
+msgstr ""
+
+#: functions.php:182
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:208
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:208 functions.php:233
+msgid "Edit"
+msgstr ""
+
+#. translators: 1: comment author, 2: date and time
+#: functions.php:222
+msgid "%1$s on %2$s said:"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:228
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:237
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:246
+msgid "Reply"
+msgstr ""
+
+#: image.php:44
+msgid "This is an image for %1$s."
+msgstr ""
+
+#: image.php:48
+msgid "Images navigation"
+msgstr ""
+
+#: image.php:49
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:50
+msgid "Next &rarr;"
+msgstr ""
+
+#: search.php:14
+msgid "Search Results"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:18
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Parament"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://theme.wordpress.com/themes/parament/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Parament is a great all-purpose theme featuring a dark color scheme with "
+"bright orange highlights and a textured background. Add your own personal "
+"flair by uploading a custom header or background image. Parament's full-"
+"width image template allows your images to display as large as possible for "
+"maximum impact."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid ""
+"black, dark, orange, two-columns, fixed-width, custom-background, custom-"
+"header, custom-menu, microformats, infinite-scroll, rtl-language-support, "
+"sticky-post, translation-ready, art, artwork, blog, clean, colorful, curved, "
+"design, geometric, journal, textured, vibrant"
+msgstr ""
